@@ -1,0 +1,252 @@
+/*mainpage styling*/
+.mainpage {
+  background-image: url("https://i.ibb.co/0QsZqDv/opop.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+}
+
+h1.heading {
+  font-family: "garamond", serif;
+  font-size: 90px;
+  text-align: center;
+  color: #8A3324
+}
+
+.listing {
+  font-size: 60px;
+  font-family: "monospace", courier;
+  color: #A52A2A
+}
+
+.logo {
+    width: 135px;
+    height: 135px;
+    padding-right: 200px;
+    float: right;
+}
+
+/*teammembers page styling*/
+
+.teammembers {
+  background-image: url("https://i.ibb.co/M7VZr9z/teamm.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+}
+
+.tablenames{
+  border: 3px solid #954535;
+    position: left;
+    top: 70px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.nameofteam {
+  font-family: "garamond", serif;
+  font-size: 100px;
+  text-align: center;
+  color: #AA381E
+}
+
+.names {
+  text-align: center;
+  font-size: 40px;
+  font-family: "monospace", courier;
+  color: #A52A2A
+
+}
+
+.mainpagereturn2 {
+    border: 3px solid #EDC9AF;
+    position: left;
+    top: 50px;
+    width: 300px;
+    margin: 2
+}
+
+/*members page styling*/
+   /*member1*/
+.Ali {
+  font-family: "perpetua", css;
+  font-size: 80px;
+  text-align: center;
+  color: #014421
+}
+
+.infoali {
+  padding-right: 50px;
+  float: right;
+  font-size: 33px;
+  font-family: "Javanese Text", css;
+  color: 	#006B3C
+}
+
+ .backgrmem1 {
+   background-image: url("https://i.ibb.co/Y8Q3wgm/olo.jpg");
+   background-size:     cover;
+   background-repeat:   no-repeat;
+ }
+
+ .returnpage1 {
+     border: 3px solid #654321;
+     position: left;
+     top: 70px;
+     width: 300px;
+     margin: 2
+ }
+
+ /*member2*/
+
+.Farah {
+  font-family: "perpetua", css;
+  font-size: 80px;
+  text-align: center;
+  color:#00009C
+}
+
+.infofarah {
+  padding-right: 50px;
+  float: right;
+  font-size: 42px;
+  font-family: "Javanese Text", css;
+  color:#126180
+}
+
+.backgrmem2 {
+  background-image: url("https://i.ibb.co/tpBhzTf/farahbackgr.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+}
+
+.returnpage2 {
+    border: 3px solid #666699;
+    position: left;
+    top: 70px;
+    width: 300px;
+    margin: 2
+}
+
+/*member3*/
+
+.Gulagha {
+  font-family: "perpetua", css;
+  font-size: 80px;
+  text-align: center;
+  color:#064E40
+}
+
+.infogulagha {
+  padding-right: 50px;
+  float: right;
+  font-size: 38px;
+  font-family: "Javanese Text", css;
+  color:	#FFFAF0
+}
+
+.backgrmem3 {
+  background-image: url("https://i.ibb.co/s6wLYH8/gulaghabackg.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+}
+
+.returnpage3 {
+    border: 3px solid #006400	;
+    position: left;
+    top: 70px;
+    width: 300px;
+    margin: 2
+}
+
+/*member4*/
+
+.Tamara {
+  font-family: "perpetua", css;
+  font-size: 80px;
+  text-align: center;
+  color:#FAD6A5
+}
+
+.infotamara {
+  padding-right: 50px;
+  float: right;
+  font-size: 40px;
+  font-family: "Javanese Text", css;
+  color:	#FFFAF0
+}
+
+.backgrmem4 {
+  background-image: url("https://i.ibb.co/mvqQD2v/tamarabackg.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+}
+
+.returnpage {
+    border: 3px solid #EDC9AF;
+    position: left;
+    top: 70px;
+    width: 300px;
+    margin: 2
+}
+/*hourofcodepep page*/
+
+.nameing {
+  font-family: "garamond", serif;
+  font-size: 95px;
+  text-align: center;
+  color: #8A3324
+
+}
+
+.writing {
+  padding-right: 10px;
+  float: right;
+  font-size: 33px;
+  font-family: "MV Boli", css;
+  color:	#536878
+}
+
+.backgroundd {
+  background-image: url("https://i.ibb.co/s9DxmJj/wewe.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+}
+
+.returnpage5 {
+    border: 3px solid #800020;
+    position: left;
+    top: 70px;
+    width: 300px;
+    margin: 2
+}
+
+/*webprep page*/
+
+.name {
+    font-family: "Book Antiqua", serif;
+    font-size: 90px;
+    text-align: center;
+    color: #8A3324
+}
+
+.writing2 {
+  padding-right: 10px;
+  /*float: right;*/
+  font-size: 25px;
+  font-family: "MV Boli", css;
+  color:	#536878
+}
+
+.backpage {
+  background-image: url("https://i.ibb.co/GWYJH0g/rerey.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+}
+
+.returnpagee {
+    border: 3px solid #800020;
+    position: left;
+    top: 70px;
+    width: 300px;
+    margin: 2
+
+}
